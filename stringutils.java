@@ -1,1 +1,1 @@
-this file contain string related info
+this file contain string related inf o
